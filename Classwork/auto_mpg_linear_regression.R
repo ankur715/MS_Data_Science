@@ -1,4 +1,4 @@
-# Linear Regression on Lung Capacity data
+# Linear Regression on Lung Capacity data 
 # LungCapData is attached in this repository
 
 lungs_data <- read.csv("C:\Users\Ankur\Documents\Data Science\Courses\DS 510\LungCapData.csv")
@@ -97,3 +97,4 @@ y_e <- dnorm(x_e, mu_e, sd_e)
 lines(x_e, y_e, col = 'blue') 
 # plot the curve representing ideal normally distributed values
 # blue curve to compare with the output red curve to analyze the distribution
+

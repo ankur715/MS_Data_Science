@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="100" height="120" src="https://github.com/ankur715/saint_peters_university_projects/blob/master/icon.png">  
+  <img width="100" height="120" src="https://github.com/ankur715/saint_peters_university_projects/blob/master/icon.png"> 
+</p>
+
 ---
 ## M.S. in Data Science  
 ---

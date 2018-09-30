@@ -1,3 +1,5 @@
-## Saint Peter's University  
+## M.S. in Data Science 
+
+### Saint Peter's University  
 ### Jersey City, NJ, USA
 

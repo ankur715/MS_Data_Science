@@ -1,5 +1,3 @@
-####################################################################################################
-
 # Logistic Regression on Grades data
 # Grades is attached in this repository
 
@@ -94,4 +92,3 @@ sum(diag(tab2))/sum(tab2)*100
 # similar validation on test dataset
 # accuracy of 70.3125
 
-####################################################################################################

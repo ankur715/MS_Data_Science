@@ -20,7 +20,7 @@ This readme.md will be updated as the repository is updated.
 -Anticipated courses next trimester:  
 - **DS-542. Python in Data Science**  
 - **DS-660. Business Analytics**  
-
+---
 #### **Projects:**
 
 #### *TBA*

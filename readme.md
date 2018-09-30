@@ -1,4 +1,4 @@
-https://github.com/ankur715/saint_peters_university_projects/blob/master/icon.png  
+[[https://github.com/ankur715/saint_peters_university_projects/blob/master/icon.png]]  
 ## M.S. in Data Science  
 ---
 ### Saint Peter's University  

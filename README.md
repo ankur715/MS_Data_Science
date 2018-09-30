@@ -11,7 +11,7 @@ This readme.md will be updated as the repository is updated.
 https://www.saintpeters.edu/academics/graduate-programs/master-of-science-in-data-science/
 *Note: Data used in the projects are for academic purposes and do not violate any privacy policies.
 ---
-##### **Courses:**
+#### **Courses:**
 
 *Note: Following are the courses I am enrolled in, and it will be updated as I take more.*   
 * **DS-510. Introduction to Data Science**: This course provides an overview and develops student's understanding of the data science and analytics landscape in the context of business examples and other emerging fields. It also provides students with an understanding of the most common methods used in data science. Topics covered include introduction to predictive modeling, data visualization, probability distributions, Bayes' theorem, statistical inference, clustering analysis, decision analytic thinking, data and business strategy, cloud storage and big data analytics.  
@@ -20,8 +20,8 @@ https://www.saintpeters.edu/academics/graduate-programs/master-of-science-in-dat
 - **DS-542. Python in Data Science**  
 - **DS-660. Business Analytics**  
 
-##### **Projects:**
+#### **Projects:**
 
-*TBA.*
+*TBA*
 ---
 If you liked what you saw and want to chat with me about my academic experience or work opportunities, shoot an email at [p.ankur.715@gmail.com].(p.ankur.715@gmail.com)

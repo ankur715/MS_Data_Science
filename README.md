@@ -24,4 +24,4 @@ This readme.md will be updated as the repository is updated.
 
 #### *TBA*
 ---
-If you liked what you saw and want to chat with me about my academic experience or work opportunities, shoot an email at [p.ankur.715@gmail.com]
+If you liked what you saw and want to chat with me about my academic experience or work opportunities, shoot an email at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com).

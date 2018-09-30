@@ -1,5 +1,5 @@
+https://github.com/ankur715/saint_peters_university_projects/blob/master/icon.png  
 ## M.S. in Data Science  
-![alt text](https://github.com/ankur715/saint_peters_university_projects/blob/master/icon.png)
 ---
 ### Saint Peter's University  
 ### Jersey City, NJ, USA

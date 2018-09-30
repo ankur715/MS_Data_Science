@@ -1,2 +1,3 @@
-# Saint Peter's University : Jersey City, NJ, USA
+## Saint Peter's University  
+### Jersey City, NJ, USA
 

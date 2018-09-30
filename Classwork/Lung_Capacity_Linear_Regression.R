@@ -20,6 +20,7 @@ cor(lungs_data$Age, lungs_data$LungCap)
 
 help(lm)
 # get information about lm function for regression
+# can also use following: ?lm
 
 model <- lm(lungs_data$LungCap ~ lungs_data$Age, data = lungs_data) 
 # linear regression on Lungcap as dependent and Age as independent variable

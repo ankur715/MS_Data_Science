@@ -21,14 +21,4 @@ This readme.md will be updated as the repository is updated.
 - **DS-542. Python in Data Science**  
 - **DS-660. Business Analytics**  
 ---
-#### **Projects:**
-
-*Note: Following are the projects completed, and it will be updated as I take more.* 
-* **Automobile engine factors on vehicle's mpg**: Investigate the impact of a number of automobile engine factors on the vehicle's mpg. Make a linear model, use it to make predictions, and compare with actual values using error differences. Create a residual plot and histogram for the errors.
-
--Anticipated projects current trimester:
-- **Heart dataset**: Logistic regression, Support vector machine
-
-#### 
----
 If you liked what you saw and want to chat with me about my academic experience or work opportunities, shoot an email at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com).

@@ -1,5 +1,5 @@
 ## Task 1
-
+ 
 load("/Users/apatel8/Downloads/FLAG.Rdata")
 # loading FLAG dataset
 summary(FLAG)

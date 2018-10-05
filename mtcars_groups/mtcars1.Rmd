@@ -1,0 +1,69 @@
+---
+title: "DS 520 Lab 1"
+output: pdf_document
+---
+
+Task 1:
+
+Load "mtcars" data and create a new dataset having “mpg”, “cyl”,“disp”,“hp”, “wt”, and “am”
+View it and the dataframe
+
+```{r}
+mtcars
+newdataset <- mtcars[,c("mpg","cyl","disp","hp","wt","am")]
+View(newdataset)
+str(mtcars)
+```
+
+
+Task 2:
+
+For the new dataset, create a new categorical variable “mpg_group” where,
+If miles per gallon less than 12, then “low”;
+If miles per gallon less than 20 and bigger or equal to 12, then “medium”;
+Otherwise, “high”.
+and add it to your new dataset.
+
+```{r}
+attach(newdataset)
+newdataset$mpg_group[mpg < 12] <- "low"
+newdataset$mpg_group[mpg >= 12 &  mpg < 20] <- "medium"
+newdataset$mpg_group[mpg >= 20] <- "high"
+detach(newdataset)
+```
+
+
+Task 3:
+
+For each level of “mpg_group”, attach the average of miles per gallon (“mpg”), displacement (“disp”), and weight (“wt”).
+
+```{r}
+attach(newdataset)
+newdataset_1 <- newdataset[,c("mpg","disp","wt","mpg_group")]
+agg_data <- aggregate(newdataset_1, by=list(mpg_group),FUN = mean, na.rm=TRUE)
+```
+
+newdataset_1 created because newdataset has other variables needed later so cannot set it to newdataset again
+
+
+Task 4:
+
+Merge your dataset from task 3 back to your new data by “mpg_group”.
+
+```{r}
+merge_data <- merge(agg_data,newdataset,by.x=c("Group.1"),by.y=c("mpg_group"),ALL=TRUE)
+```
+
+mpg_group turned into Group.1 in aggregate function because it couldn't take mean of words
+
+
+Task 5:
+
+Create a subset of your merged dataset where number of cylinders less than 8 and transmission is automatic. Finally, clean up the dataset you just created.
+
+```{r}
+subset_data <- subset(merge_data, cyl < 8 & am == 1)
+subset_data[,-5]
+```
+
+removed the mpg_group which contained NA

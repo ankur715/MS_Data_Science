@@ -4,6 +4,8 @@
 # FYI: position cursor over function to see its syntax details
 
 grade <- read.csv("C:\Users\Ankur\Documents\Data Science\Courses\DS 510\Grades.csv")
+# if URL not reading, can use function below to browse and select file
+grades <- read.csv(file.choose())
 View(grade)
 
 summary(grade)

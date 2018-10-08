@@ -15,7 +15,7 @@ This readme.md will be updated as the repository is updated.
 
 *Note: Following are the courses I am enrolled in, and it will be updated as I take more.*   
 * **DS-510. Introduction to Data Science**: linear_regression, logistic_regression, svm  
-* **DS-520. Data Analysis and Decision Modeling**: FLAG  
+* **DS-520. Data Analysis and Decision Modeling**: mtcars_groups, FLAG  
 
 -Anticipated courses next trimester:  
 - **DS-542. Python in Data Science**  

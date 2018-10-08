@@ -38,8 +38,6 @@ summary(model)
 # check significance codes of variables
 # Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
-### difference between glm and lm is described in glm_lm repository file in Extracurricular->Beginner
-
 model2 <- glm(admit ~ gpa + rank, data = train, family = 'binomial') 
 summary(model2) 
 # run model again after removing gre as it is insignificant 

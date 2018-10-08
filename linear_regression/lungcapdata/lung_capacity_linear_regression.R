@@ -2,6 +2,8 @@
 # LungCapData is attached in this repository
 
 lungs_data <- read.csv("C:\Users\Ankur\Documents\Data Science\Courses\DS 510\LungCapData.csv")
+# if URL not reading, can use function below to browse and select file
+lung_data <- read.csv(file.choose())
 View(lungs_data)
 # view the dataset and the results
 

@@ -18,7 +18,7 @@ str(lungs_data)
 plot(lungs_data$Age, lungs_data$LungCap, main = "Scatterplot") 
 # scatterplot of relationship between Lung Capacity and Age
 cor(lungs_data$Age, lungs_data$LungCap)
-# their correlation is fairly positive
+# their correlation is fairly positive: ~0.82
 
 help(lm)
 # get information about lm function for regression
@@ -28,8 +28,8 @@ model <- lm(lungs_data$LungCap ~ lungs_data$Age, data = lungs_data)
 # linear regression on Lungcap as dependent and Age as independent variable
 
 summary(model)
-# p-value extremely low so significant
-# r-squared is the percentage of variation
+# p-value extremely low so significant: <2.2e-16
+# r-squared is the percentage of variation: ~0.67
 
 attributes(model)
 # all attributes stored in the model

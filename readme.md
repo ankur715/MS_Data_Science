@@ -18,7 +18,7 @@ This readme.md will be updated as the repository is updated.
 * **DS-520. Data Analysis and Decision Modeling**: mtcars_groups, FLAG  
 
 -Anticipated courses next trimester:  
-- **DS-542. Python in Data Science**  
-- **DS-660. Business Analytics**  
+- **DS-610. Big Data Analytics**  
+- **DS-630. Machine Learning**  
 ---
 If you liked what you saw and want to chat with me about my academic experience or work opportunities, shoot an email at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com).

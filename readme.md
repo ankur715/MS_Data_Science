@@ -13,12 +13,24 @@ This readme.md will be updated as the repository is updated.
 ---
 #### **Courses:**
 
-*Note: Following are the courses I am enrolled in, and it will be updated as I take more.*   
-* **DS-510. Introduction to Data Science**: linear_regression, logistic_regression, svm  
-* **DS-520. Data Analysis and Decision Modeling**: mtcars_groups, FLAG  
+*Following are the courses I've completed:*   
+* **DS-510. Introduction to Data Science**: linear regression, logistic regression, SVM, KNN, K-means, Tableau, marketing analysis  
+* **DS-520. Data Analysis and Decision Modeling**: mtcars groups, FLAG, descriptive statistics, inferential statistics, ANOVA  
 
--Anticipated courses next trimester:  
-- **DS-610. Big Data Analytics**  
-- **DS-630. Machine Learning**  
+*Following are the courses I am enrolled in:*   
+* **DS-610. Big Data Analytics**  
+* **DS-630. Machine Learning**  
+
+*Anticipated courses:*   
+* **DS-620. Data Visualization**   
+* **DS-650. Data Law, Ethics and Business Intelligence**  
+* **DS-600. Data Mining**  
+* **DS-640. Predictive Analytics and Financial Modeling	**  
+* **DS-660. Business Analytics**  
+* **DS-670. Capstone: Big Data and Business Analytics	**  
+* **DS-680. Marketing Analytics and Operations Research**  
+* **DS-700. Data Science and Health**  
+
+
 ---
-If you liked what you saw and want to chat with me about my academic experience or work opportunities, shoot an email at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com).
+If you would like to discuss my academic experience or any work/internship opportunities, please email me at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com).

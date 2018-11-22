@@ -25,9 +25,9 @@ This readme.md will be updated as the repository is updated.
 * **DS-620. Data Visualization**   
 * **DS-650. Data Law, Ethics and Business Intelligence**  
 * **DS-600. Data Mining**  
-* **DS-640. Predictive Analytics and Financial Modeling	**  
+* **DS-640. Predictive Analytics and Financial Modeling**  
 * **DS-660. Business Analytics**  
-* **DS-670. Capstone: Big Data and Business Analytics	**  
+* **DS-670. Capstone: Big Data and Business Analytics**  
 * **DS-680. Marketing Analytics and Operations Research**  
 * **DS-700. Data Science and Health**  
 

@@ -33,4 +33,4 @@ This readme.md will be updated as the repository is updated.
 
 
 ---
-If you would like to discuss my academic experience or any work/internship opportunities, please email me at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com) https://www.linkedin.com/in/ankurpatel715/.
+If you would like to discuss my academic experience or any work/internship opportunities, please email me at [p.ankur.715@gmail.com](mailto:p.ankur.715@gmail.com) or https://www.linkedin.com/in/ankurpatel715/.

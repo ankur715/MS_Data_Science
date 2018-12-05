@@ -18,7 +18,7 @@ This readme.md will be updated as the repository is updated.
 * **DS-520. Data Analysis and Decision Modeling**: mtcars groups, FLAG, descriptive statistics, inferential statistics, ANOVA  
 
 *Following are the courses I am enrolled in:*   
-* **DS-610. Big Data Analytics**  
+* **DS-610. Big Data Analytics**: Apache Spark  
 * **DS-630. Machine Learning**  
 
 *Anticipated courses:*   

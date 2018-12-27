@@ -3,8 +3,7 @@
 ### Saint Peter's University  
 ### Jersey City, NJ, USA
 ---
-Repository containing portions of various data science codes completed by me for academic and self-learning purposes. 
-Currently, only language used is R. 
+Repository containing some portions of small codes completed by me for academic and self-learning purposes. Bigger projects are in separate repositories.  
 This readme.md will be updated as the repository is updated. 
 
 #### **Link to the graduate program:**  

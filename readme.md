@@ -15,15 +15,15 @@ This readme.md will be updated as the repository is updated.
 *Following are the courses I've completed:*   
 * **DS-510. Introduction to Data Science**: Linear Regression, Logistic Regression, SVM, KNN, K-means, Tableau, Marketing Analysis  
 * **DS-520. Data Analysis and Decision Modeling**: Descriptive Statistics, Inferential Statistics, ANOVA  
-
-*Following are the courses I am enrolled in:*   
 * **DS-610. Big Data Analytics**: Apache Spark, Databricks, Cluster  
 * **DS-630. Machine Learning**: Regression, Classification, Clustering, Neural Network  
 
+*Following are the courses I am enrolled in:*   
+* **DS-530. Big Data & Data Managament**  
+* **DS-600. Data Mining**  
+
 *Anticipated courses:*   
 * **DS-620. Data Visualization**   
-* **DS-650. Data Law, Ethics and Business Intelligence**  
-* **DS-600. Data Mining**  
 * **DS-640. Predictive Analytics and Financial Modeling**  
 * **DS-660. Business Analytics**  
 * **DS-670. Capstone: Big Data and Business Analytics**  

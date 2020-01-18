@@ -1,3 +1,6 @@
+## Flask:
+### Predict Salary
+
 <p align="left">
-  <img width="600" height="300" src="https://github.com/ankur715/ms_data_science/python542/html.JPG"> 
+  <img width="1000" height="550" src="https://github.com/ankur715/ms_data_science/python542/blob/master/html.JPG"> 
 </p>
